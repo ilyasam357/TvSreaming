@@ -37,7 +37,14 @@ const channelList = [
   },
 
   // ar
-
+  {
+    name: "rotanamus",
+    url: "https://daiconnect.com/live/hls/rotana/music/.m3u8",
+  },
+  {
+    name: "Panaroma FM",
+    url: "https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8",
+  },
   {
     name:'Mekkah',
     url:'http://m.live.net.sa:1935/live/quran/playlist.m3u8'
@@ -57,7 +64,10 @@ const channelList = [
   },
   
   // luar
-
+  {
+    name: "gotam",
+    url: " https://da48ygj8xribp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nqz4iiv4surws-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-nqz4iiv4surws/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
+  },
   
 ];
 
